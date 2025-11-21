@@ -1,3 +1,5 @@
+Link to test version (unfinished): https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221j2em7sjVGdoJ1W2j7YPa9enwTTwz5X8h%22%5D,%22action%22:%22open%22,%22userId%22:%22116597409598245038798%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
