@@ -1,0 +1,8 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+3672,2771,20,Rt. 20 GreenLink,3,70AD47,000000
+3673,2771,21,Rt. 21 Greenfield Local,3,375623,FFFFFF
+3674,2771,23,Rt. 23 Sunderland/Greenfield,3,F51414,FFFFFF
+3675,2771,24,Rt. 24 Crosstown Connector,3,2F5496,FFFFFF
+3676,2771,31,Rt. 31 Northampton/Greenfield,3,7500E2,FFFFFF
+3677,2771,32,Rt. 32 Orange/Greenfield,3,ED9119,000000
+3678,2771,41,Rt. 41 Charlemont/Greenfield,3,753C0B,FFFFFF

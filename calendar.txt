@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+30825,1,1,1,1,1,0,0,20240101,20261231
+48276,1,1,1,1,1,1,1,20240101,20261231
+48276.125012,0,0,0,0,0,1,1,20240101,20261231
