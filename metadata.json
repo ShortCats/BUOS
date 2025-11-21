@@ -1,0 +1,7 @@
+{
+  "name": "Franklin Transit Waze",
+  "description": "A Waze-style realtime transit tracker for Franklin Regional Transit Authority and Amtrak, utilizing Google Maps Grounding for intelligent route planning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
