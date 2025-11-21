@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_email,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+2771,Franklin Regional Transit Authority (FRTA),,http://frta.org,America/New_York,en,413-774-2262,
